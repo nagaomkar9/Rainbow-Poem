@@ -5,6 +5,8 @@ blue
 indigo
 green
 yellow
+pink
+purple
 red
 
 these r the colors in rainbow
