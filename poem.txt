@@ -1,4 +1,7 @@
-Hi..these is poem
+//Note that only chandes added can be merged to master branch..so dont change the original content
+//orelse wipe off the entire file in master branch, if the original content is to be changed
+Hi..these is poem of rainbow and unicorn
+
 
 violet
 blue
@@ -9,4 +12,4 @@ pink
 purple
 red
 
-these r the colors in rainbow
+these r the colors in rainbow with added unicorn
