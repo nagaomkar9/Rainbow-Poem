@@ -6,6 +6,7 @@ Faires are beautiful
 violet
 blue
 indigo
+black
 green
 yellow
 pink
